@@ -1,0 +1,47 @@
+.p1{
+    font-family: arial;
+    color:black;
+    font-size: 40px;
+    margin-top:0px;
+   
+}
+.pickup{
+    padding:10px;
+    width:350px;
+    display: block;
+  font-size: 15px;
+  border:none;
+  background-color: rgb(240, 240, 240);
+  margin-bottom: 10px;
+}
+.drop{
+    padding:10px;
+    width:350px;
+    display: block;
+  font-size: 15px;
+  border:none;
+  background-color:rgb(240, 240, 240);
+  margin-bottom: 30px;
+}
+.request{
+    background-color: black;
+    color: white;
+    display:inline-block;
+padding: 15px 15px;
+width: 150px;
+border:none;
+font-size:15px;
+margin-right: 5px;
+
+}
+.sehedule{
+    background-color:rgb(240, 240, 240);
+    color:black;
+    display:inline-block;
+    padding: 15px 15px;
+    width: 150px;
+   border:none;
+   font-size:15px;
+    margin-left: 5px;
+    
+}
